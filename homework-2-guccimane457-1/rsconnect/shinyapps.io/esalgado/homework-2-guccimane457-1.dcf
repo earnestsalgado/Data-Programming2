@@ -1,0 +1,14 @@
+name: homework-2-guccimane457-1
+title:
+username:
+account: esalgado
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5592131
+bundleId: 5550615
+url: https://esalgado.shinyapps.io/homework-2-guccimane457-1/
+when: 1644203584.90277
+lastSyncTime: 1644203584.90278
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Chicago Grocery Stores by Zip Code.png|Chicago Public Libraries by Zip Code.png|Grocery_Store_Status.csv|question_2.R|README.md

@@ -1,0 +1,14 @@
+name: final-project-salgadoe
+title: final-project-salgadoe
+username:
+account: esalgado
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5877427
+bundleId: 5697906
+url: https://esalgado.shinyapps.io/final-project-salgadoe/
+when: 1647578434.68343
+lastSyncTime: 1647578434.68346
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|~$draft.docx|ACF test - Crimes.png|Crimes_by_ChiWard_2019.png|Crimes_summer2019_.csv|draft.docx|fit_lm.html|Gun Violent Crimes by Chi Ward, 2015-2019.png|Homicides_by_ChiWard_2019.png|input 1 - crime dataset subset.R|Mental_health_coverage_CrimeNews.png|README.md|regression.R|Sentiment Analysis - Big Brains Podcast Ep 82.png|Sentiment Analysis - Crimes News Coverage.png|text_data.csv|Tidy and analysis for crimes.R|Time Series - Crimes.png|transcript.txt|Webscrap and text analysis.R
